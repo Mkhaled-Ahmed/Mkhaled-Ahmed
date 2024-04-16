@@ -21,10 +21,10 @@
 
 <a href="https://www.linkedin.com/in/mohamed-khaled-337181287/" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Khaled-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
-![Verilog](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Verilog)&nbsp;
-![SystemVerilog](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=SystemVerilog)&nbsp;
-![Vivado](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Vivado)&nbsp;
-![QuestaSim](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=QuestaSim)&nbsp;
+![Verilog](https://img.shields.io/badge/-Verilog-05122A?style=flat&logo=Verilog)&nbsp;
+![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-05122A?style=flat&logo=SystemVerilog)&nbsp;
+![Vivado](https://img.shields.io/badge/-Vivado-05122A?style=flat&logo=Vivado)&nbsp;
+![QuestaSim](https://img.shields.io/badge/-QuestaSim-05122A?style=flat&logo=QuestaSim)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C++&logoColor=563D7C)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;
